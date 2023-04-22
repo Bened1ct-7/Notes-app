@@ -1,0 +1,15 @@
+@import './base.css';
+
+#app {
+  font-weight: normal;
+}
+
+.container {
+  width: 90%;
+  max-width: 992px;
+  margin: auto;
+}
+
+input, textarea {
+  font-family: "Poppins", Sans-Serif;
+}
